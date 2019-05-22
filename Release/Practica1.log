@@ -1,0 +1,17 @@
+﻿  proyecto.cpp
+c:\users\mari_\source\repos\practica1\practica1\window.h(12): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+c:\users\mari_\source\repos\practica1\practica1\window.h(13): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+c:\users\mari_\source\repos\practica1\practica1\proyecto.cpp(124): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\mari_\source\repos\practica1\practica1\proyecto.cpp(610): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\mari_\source\repos\practica1\practica1\proyecto.cpp(661): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\mari_\source\repos\practica1\practica1\proyecto.cpp(687): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\mari_\source\repos\practica1\practica1\proyecto.cpp(692): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\mari_\source\repos\practica1\practica1\proyecto.cpp(1193): warning C4305: '=': truncamiento de 'double' a 'GLfloat'
+c:\users\mari_\source\repos\practica1\practica1\proyecto.cpp(1197): warning C4305: '=': truncamiento de 'double' a 'GLfloat'
+c:\users\mari_\source\repos\practica1\practica1\proyecto.cpp(2029): warning C4305: '+=': truncamiento de 'double' a 'GLfloat'
+  Generando código
+  1 of 1180 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+  Generación de código finalizada
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Practica1.vcxproj -> C:\Users\mari_\source\repos\Practica1\Release\Practica1.exe
